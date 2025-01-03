@@ -1,12 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
-  <rect width="600" height="400" fill="black" />
-  <text x="50%" y="40" font-family="Courier New, monospace" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text>
-  <text x="20" y="80" font-family="Courier New, monospace" font-size="16" fill="white">Act without doing;</text>
-  <text x="20" y="110" font-family="Courier New, monospace" font-size="16" fill="white">Work without effort.</text>
-  <text x="20" y="140" font-family="Courier New, monospace" font-size="16" fill="white">Think of the small as large,</text>
-  <text x="20" y="170" font-family="Courier New, monospace" font-size="16" fill="white">And the few as many.</text>
-  <text x="20" y="200" font-family="Courier New, monospace" font-size="16" fill="white">Confront the difficult while it is still easy;</text>
-  <text x="20" y="230" font-family="Courier New, monospace" font-size="16" fill="white">Accomplish the great task</text>
-  <text x="20" y="260" font-family="Courier New, monospace" font-size="16" fill="white">By a series of small acts.</text>
-  <text x="580" y="380" font-family="Courier New, monospace" font-size="14" font-style="italic" fill="white" text-anchor="end">Lao Tzu (Translation by S. Mitchell)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="450">
+  <style>
+
+    text{
+        font-family: "Consolas", monospace;
+        fill: #d4f4fe;
+    }
+    .title{
+      
+      font-size: 1.5rem;
+      
+    }
+    .poem-text {
+      font-size: 1.2rem;
+ 
+    }
+
+    .container {
+      border-style: solid;
+      stroke: #03A8F6;
+      stroke-width: 2;
+    }
+
+    .palette {
+      border-style: solid;
+      stroke: #03A8F6;
+      stroke-width: 2;
+    }
+
+    .author {
+      font-size: 0.9rem;
+      font-style: italic;
+      fill: white;
+      text-anchor: end;
+    }
+  </style>
+  <rect class="container" width="650" height="400" fill="#1d1d1f" />
+  <text class="title" x="50%" y="40" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text>
+  <text class="poem-text" x="20" y="80">Act without doing;</text>
+  <text class="poem-text" x="20" y="110">Work without effort.</text>
+  <text class="poem-text" x="20" y="140">Think of the small as large,</text>
+  <text class="poem-text" x="20" y="170">And the few as many.</text>
+  <text class="poem-text" x="20" y="200">Confront the difficult while it is still easy;</text>
+  <text class="poem-text" x="20" y="230">Accomplish the great task</text>
+  <text class="poem-text" x="20" y="260">By a series of small acts.</text>
+  <!-- Color palette -->
+  <svg x="calc(50% - 250px)" y="300" width="500" height="50" viewBox="0 0 500 50">
+    <rect class="palette" fill="#0E1216" x="0" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#0F172A" x="50" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#121212" x="100" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#1C1C1F" x="150" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#1F2227" x="200" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#38393C" x="250" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#A1A1A6" x="300" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#DEE0E3" x="350" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#FDFDFD" x="400" y="0" width="50" height="50"/>
+    <rect class="palette" fill="#03A8F6" x="450" y="0" width="50" height="50"/>
+  </svg>
+  <text class="author" x="580" y="380">Lao Tzu - Tao Te Ching 63  </text>
 </svg>
