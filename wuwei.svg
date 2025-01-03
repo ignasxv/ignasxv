@@ -16,7 +16,7 @@
     }
 
     .container {
-      border-style: solid;
+      border-style: solid; 
       stroke: #03A8F6;
       stroke-width: 2;
     }
