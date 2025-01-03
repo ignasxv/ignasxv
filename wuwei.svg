@@ -20,6 +20,7 @@
       border-style: solid; 
       stroke: #03A8F6;
       stroke-width: 2;
+      rx: 13;
     }
 
     .palette {
