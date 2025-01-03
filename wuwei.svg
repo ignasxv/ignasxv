@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="400">
   <rect width="600" height="400" fill="black" />
-  <text x="50%" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text>
-  <text x="20" y="80" font-family="Arial, sans-serif" font-size="16" fill="white">Act without doing;</text>
-  <text x="20" y="110" font-family="Arial, sans-serif" font-size="16" fill="white">Work without effort.</text>
-  <text x="20" y="140" font-family="Arial, sans-serif" font-size="16" fill="white">Think of the small as large,</text>
-  <text x="20" y="170" font-family="Arial, sans-serif" font-size="16" fill="white">And the few as many.</text>
-  <text x="20" y="200" font-family="Arial, sans-serif" font-size="16" fill="white">Confront the difficult while it is still easy;</text>
-  <text x="20" y="230" font-family="Arial, sans-serif" font-size="16" fill="white">Accomplish the great task</text>
-  <text x="20" y="260" font-family="Arial, sans-serif" font-size="16" fill="white">By a series of small acts.</text>
-  <text x="580" y="380" font-family="Arial, sans-serif" font-size="14" font-style="italic" fill="white" text-anchor="end">Lao Tzu (Translation by S. Mitchell)</text>
+  <text x="50%" y="40" font-family="Courier New, monospace" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text>
+  <text x="20" y="80" font-family="Courier New, monospace" font-size="16" fill="white">Act without doing;</text>
+  <text x="20" y="110" font-family="Courier New, monospace" font-size="16" fill="white">Work without effort.</text>
+  <text x="20" y="140" font-family="Courier New, monospace" font-size="16" fill="white">Think of the small as large,</text>
+  <text x="20" y="170" font-family="Courier New, monospace" font-size="16" fill="white">And the few as many.</text>
+  <text x="20" y="200" font-family="Courier New, monospace" font-size="16" fill="white">Confront the difficult while it is still easy;</text>
+  <text x="20" y="230" font-family="Courier New, monospace" font-size="16" fill="white">Accomplish the great task</text>
+  <text x="20" y="260" font-family="Courier New, monospace" font-size="16" fill="white">By a series of small acts.</text>
+  <text x="580" y="380" font-family="Courier New, monospace" font-size="14" font-style="italic" fill="white" text-anchor="end">Lao Tzu (Translation by S. Mitchell)</text>
 </svg>
