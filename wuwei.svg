@@ -37,7 +37,7 @@
     }
   </style>
   <rect class="container" width="650" height="400" fill="#1d1d1f" />
-  <text class="title" x="50%" y="40" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text>
+<!--   <text class="title" x="50%" y="40" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Tao Te Ching 63</text> -->
   <text class="poem-text" x="20" y="80">Act without doing;</text>
   <text class="poem-text" x="20" y="110">Work without effort.</text>
   <text class="poem-text" x="20" y="140">Think of the small as large,</text>
