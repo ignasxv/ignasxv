@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="300">
+  <style>
+    /* Ensure a classic monospace font is used */
+    text {
+      font-family: "Consolas", "Monaco", monospace;
+      font-size: 1.2rem;
+    }
+    /* Background (removed fill for transparency, no border, no rounding) */
+    .container {
+      /* Removed: stroke and stroke-width (border) */
+      /* Removed: rx (corner rounding) */
+      /* Removed: fill (for transparency) */
+    }
+    /* Green for 'Added' lines (retro positive) */
+    .added-text {
+      fill: #00FF00; /* Bright Green */
+      text-shadow: 0 0 5px rgba(0, 255, 0, 0.4); /* Optional slight glow */
+    }
+    /* Red for 'Removed' lines (retro negative) */
+    .removed-text {
+      fill: #FF0000; /* Bright Red */
+      text-shadow: 0 0 5px rgba(255, 0, 0, 0.4); /* Optional slight glow */
+    }
+    .author {
+      font-size: 0.9rem;
+      font-style: italic;
+      fill: #d4f4fe; /* Author text remains visible */
+      text-anchor: end;
+    }
+  </style>
+
+  <rect class="container" width="650" height="280" /> 
+
+  <text class="added-text" x="20" y="50">+ Act without doing;</text>
+  <text class="removed-text" x="20" y="80">- Work without effort.</text>
+  <text class="added-text" x="20" y="110">+ Think of the small as large,</text>
+  <text class="removed-text" x="20" y="140">- And the few as many. </text>
+  <text class="added-text" x="20" y="170">+ Confront the difficult while it is still easy;</text>
+  <text class="removed-text" x="20" y="200">- Accomplish the great task</text>
+  <text class="added-text" x="20" y="230">+ By a series of small acts. </text>
+
+  <text class="author" x="630" y="260">Lao Tzu - Tao Te Ching 63</text>
+</svg>
